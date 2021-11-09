@@ -1,0 +1,8 @@
+{
+  "PoalimConfig" : {
+    "DbName": "poalimDb",
+    "DbUrl": "mongodb://localhost/?w=1&amp;journal=false",
+    "CollectionName":  "poalimCollection"
+  }
+
+}
